@@ -1,0 +1,20 @@
+
+^
+java:S4973h"<Strings and Boxed types should be compared using "equals()".(˘ÆóÖˇˇˇˇˇ8‡¸é÷¨0
+p	java:S116"ORename this field "rb_0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ôûø¯ˇˇˇˇ8Ë—’¨0
+j	java:S116"ORename this field "rb_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»á•Q8È—’¨0
+p	java:S116"ORename this field "rb_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ù˝ò˚ˇˇˇˇ8È—’¨0
+w	java:S116 "VRename this field "button_next" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¨Ã∂˚ˇˇˇˇ8Î—’¨0
+z	java:S116&"YRename this field "FRAGENZAHL_MAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’§µ˙¸ˇˇˇˇ8¯—’¨0
+C
+java:S1170&"!Make this final field static too.(’§µ˙¸ˇˇˇˇ8ÉÒ—’¨0
+u
+java:S1450"SRemove the "rb_0" field and declare it as a local variable in the relevant methods.(®ôûø¯ˇˇˇˇ8ÖÒ—’¨0
+o
+java:S1450"SRemove the "rb_1" field and declare it as a local variable in the relevant methods.(»á•Q8ÜÒ—’¨0
+u
+java:S1450"SRemove the "rb_2" field and declare it as a local variable in the relevant methods.(‚Ù˝ò˚ˇˇˇˇ8ÜÒ—’¨0
+Q
+java:S1874"/Remove this use of "execute"; it is deprecated.(¸¨√Ó˝ˇˇˇˇ8§Ò—’¨0
+\
+java:S1874•">Remove this use of "startActivityForResult"; it is deprecated.(Û“èﬂ8∞Ò—’¨0

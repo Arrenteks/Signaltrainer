@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:foregroundGravity="center"
+    tools:context=".BedeutungsquizActivity">
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="406dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="Welche Bedeutung hat das gezeigte Signal?"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/bedeuttungsimgView"
+        android:layout_width="220dp"
+        android:layout_height="230dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView8"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/errortext_bed"
+        android:layout_width="213dp"
+        android:layout_height="28dp"
+        android:text="Bitte wählen Sie ein Signal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:gravity="center"
+        android:textColor="@color/design_default_color_error"
+        android:visibility="invisible"
+        app:layout_constraintTop_toBottomOf="@+id/bedeuttungsimgView" />
+
+    <RadioGroup
+        android:id="@+id/rad_group"
+        android:layout_width="362dp"
+        android:layout_height="237dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bedeuttungsimgView">
+
+        <RadioButton
+            android:id="@+id/rbut_2"
+            android:layout_width="match_parent"
+            android:layout_height="77dp"
+            android:text="RadioButton" />
+
+        <RadioButton
+            android:id="@+id/rbut_1"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="RadioButton" />
+
+        <RadioButton
+            android:id="@+id/rbut_0"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="RadioButton" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/but_next"
+        android:layout_width="194dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="8dp"
+        android:onClick="nextQuestionClick"
+        android:text="@string/next_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/rad_group" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Signaltrainer_m20962</string>
+    <string name="title_home">Signalhandbuch</string>
+    <string name="title_dashboard">Quiz</string>
+    <string name="quiz_text0">Testen Sie ob ihr wissen über die Signale ausreicht. Es werden Ihnen 30
+    Signale gezeigt und sie müssen entscheiden welches Sie sehen. </string>
+
+    <string name="quiz_text1">Testen Sie ob ihr wissen über die Signale ausreicht. Es werden Ihnen 30
+    Signale gezeigt und sie müssen entscheiden welche Bedeutung dies besitzt. </string>
+    <string name="button_quiz">Test starten</string>
+    <string name="quizsignalnametitle">Quiz 1: Name zum Signal</string>
+    <string name="quizsignalbedeutungtitle">Quiz 2: Bedeutung zum Signal</string>
+    <string name="next_button">Nächstes Signal</string>
+</resources>

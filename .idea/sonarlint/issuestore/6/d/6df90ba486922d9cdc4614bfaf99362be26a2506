@@ -1,0 +1,25 @@
+
+C
+java:S1604*"(Make this anonymous inner class a lambda(‰€³şÿÿÿÿ
+C
+java:S1604<"(Make this anonymous inner class a lambda(‡›üçıÿÿÿÿ
+>
+java:S1604B"(Make this anonymous inner class a lambda(„è¤µ
+>
+java:S1604T"(Make this anonymous inner class a lambda(œçÓ™
+>
+java:S1604["(Make this anonymous inner class a lambda(ìçºÊ
+C
+java:S1604b"(Make this anonymous inner class a lambda(úÜËùûÿÿÿÿ
+C
+java:S1604x"(Make this anonymous inner class a lambda(‰€³şÿÿÿÿ
+V	java:S125""<This block of commented-out lines of code should be removed.(¸ ƒıÿÿÿÿ
+V	java:S125-"<This block of commented-out lines of code should be removed.(­¤¢†üÿÿÿÿ
+V	java:S1254"<This block of commented-out lines of code should be removed.(¸ ƒıÿÿÿÿ
+V	java:S125K"<This block of commented-out lines of code should be removed.(¸ ƒıÿÿÿÿ
+V	java:S125m"<This block of commented-out lines of code should be removed.(¸ ƒıÿÿÿÿ
+V	java:S125{"<This block of commented-out lines of code should be removed.(­¤¢†üÿÿÿÿ
+d	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ŞË
+W	java:S125™"<This block of commented-out lines of code should be removed.(÷Ë€Õıÿÿÿÿ
+8
+java:S2129­"!Remove this "Integer" constructor(¨ü€Š

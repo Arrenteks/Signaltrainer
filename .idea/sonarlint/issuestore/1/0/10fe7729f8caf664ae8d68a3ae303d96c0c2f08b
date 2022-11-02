@@ -1,0 +1,105 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(–²¶›
+K
+java:S3740Ä"/Provide the parametrized type for this generic.(€¤…öûÿÿÿÿ
+g
+java:S1192Ï"KDefine a constant instead of duplicating this literal "Wn-Signal" 14 times.(Àš“€úÿÿÿÿ
+k
+java:S1192®"ODefine a constant instead of duplicating this literal "Sofort halten." 3 times.(úÄÙ¿øÿÿÿÿ
+i
+java:S1192¾"MDefine a constant instead of duplicating this literal "Rangierhalt." 3 times.(ß¹¨—şÿÿÿÿ
+a
+java:S1192ø"JDefine a constant instead of duplicating this literal "Ro-Signal" 5 times.(Â³ß²
+b
+java:S1192²"KDefine a constant instead of duplicating this literal "Wegfahren." 3 times.(…á÷
+f
+java:S1192©"JDefine a constant instead of duplicating this literal "Sh-Signal" 9 times.(»»ù¥øÿÿÿÿ
+r
+java:S1192â"[Define a constant instead of duplicating this literal "Tageszeichen/Nachtzeichen" 92 times.(¥ÖŸ
+p
+java:S1192Š"YDefine a constant instead of duplicating this literal "Tagzeichen/Nachtzeichen" 11 times.(€ê§˜
+^
+java:S1192İ"GDefine a constant instead of duplicating this literal "Fahrt." 3 times.(Ê›èí
+a
+java:S1192â"JDefine a constant instead of duplicating this literal "Ks-Signal" 3 times.(¥ÖŸ
+d
+java:S1192Ü"NDefine a constant instead of duplicating this literal "Nachtzeichen" 36 times.(öÆõ_
+f
+java:S1192™"JDefine a constant instead of duplicating this literal "Ts-Signal" 4 times.(íõ’ıûÿÿÿÿ
+a
+java:S1192ö"JDefine a constant instead of duplicating this literal "Sv-Signal" 8 times.(™€œ²
+c
+java:S1192"LDefine a constant instead of duplicating this literal "BÃ¼-Signal" 10 times.(ŞéÎ’
+Œ
+java:S1192É"pDefine a constant instead of duplicating this literal "Auftrag des WÃ¤rters zur Rangierfahrt abwarten." 3 times.(Ì®èÁÿÿÿÿÿ
+g
+java:S1192å"KDefine a constant instead of duplicating this literal "Hl-Signal" 17 times.(ÜÈªúÿÿÿÿ
+b
+java:S1192Š"KDefine a constant instead of duplicating this literal "Zs-Signal" 15 times.(€ê§˜
+d
+java:S1192Û"HDefine a constant instead of duplicating this literal "DS/DV" 145 times.(ôä°™øÿÿÿÿ
+g
+java:S1192"PDefine a constant instead of duplicating this literal "Fahrt erwarten." 3 times.(Úõ±›
+b
+java:S1192"KDefine a constant instead of duplicating this literal "Lf-Signal" 12 times.(ÆÙ°™
+b
+java:S1192»"KDefine a constant instead of duplicating this literal "AbstoÃŸen." 3 times.(÷ùˆÎ
+b
+java:S1192µ"KDefine a constant instead of duplicating this literal "Herkommen." 3 times.(…æ´Ü
+b
+java:S1192²"KDefine a constant instead of duplicating this literal "Ra-Signal" 29 times.(…á÷
+k
+java:S1192ã"ODefine a constant instead of duplicating this literal "Halt erwarten." 4 times.(Æ¥ÖÜüÿÿÿÿ
+o
+java:S1192Ş"SDefine a constant instead of duplicating this literal "Ein grÃ¼nes Licht." 3 times.(ÿÆÆˆşÿÿÿÿ
+›
+java:S1192Ö"Define a constant instead of duplicating this literal "Die Lichter bilden eine von rechts nach links steigende Linie." 3 times.(Ú¡´°øÿÿÿÿ
+f
+java:S1192Û"JDefine a constant instead of duplicating this literal "Hp-Signal" 7 times.(ôä°™øÿÿÿÿ
+n
+java:S1192„"WDefine a constant instead of duplicating this literal "Langsamfahrt erwarten." 3 times.(…º˜­
+f
+java:S1192ô"JDefine a constant instead of duplicating this literal "Zg-Signal" 4 times.(óŠ¸—ûÿÿÿÿ
+f
+java:S1192ì"JDefine a constant instead of duplicating this literal "El-Signal" 8 times.(¦É’ßÿÿÿÿÿ
+j
+java:S1192Û"NDefine a constant instead of duplicating this literal "Tageszeichen" 29 times.(ôä°™øÿÿÿÿ
+i
+java:S1192¸"MDefine a constant instead of duplicating this literal "AufdrÃ¼cken." 3 times.(‘¥íÙøÿÿÿÿ
+b
+java:S1192ş"KDefine a constant instead of duplicating this literal "Vr-Signal" 12 times.(¦ÃØÜ
+b
+java:S1192İ"KDefine a constant instead of duplicating this literal "Zp-Signal" 15 times.(ºª“é
+g
+java:S1192ı"KDefine a constant instead of duplicating this literal "Ne-Signal" 12 times.(õé­„øÿÿÿÿ
+f
+java:S1192‰"JDefine a constant instead of duplicating this literal "So-Signal" 4 times.(Œıšøÿÿÿÿ
+‚
+java:S1319"lThe type of "hashSignalliste" should be an interface such as "Map" rather than the implementation "HashMap".(–²¶›
+Œ
+java:S1319×"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Å¿ÿÿÿÿÿ
+‡
+java:S1319¡"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÚÂ˜Ó
+Œ
+java:S1319è"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Œ²çşıÿÿÿÿ
+x
+java:S1104"]Make aktuelleDBVersion a static final constant or non-public and provide accessors if needed.(Í…Â€şÿÿÿÿ
+q
+java:S1104"[Make hashSignalliste a static final constant or non-public and provide accessors if needed.(–²¶›
+R
+java:S1444"7Make this "public static aktuelleDBVersion" field final(Í…Â€şÿÿÿÿ
+K
+java:S1444"5Make this "public static hashSignalliste" field final(–²¶›
+n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤¬C
+3
+java:S2386"Make this member "protected".(–²¶›
+P
+java:S1118
+":Add a private constructor to hide the implicit public one.(ÒÛ‰
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¤¬C
+3
+java:S1116 "Remove this empty statement.(¿©æØ
+B
+java:S1068"-Remove this unused "MAXUpdate" private field.(¤¬C

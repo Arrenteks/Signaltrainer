@@ -1,0 +1,22 @@
+
+C
+java:S1604o"(Make this anonymous inner class a lambda(šñ¦½ùÿÿÿÿ
+W
+java:S4973h"<Strings and Boxed types should be compared using "equals()".(ù®—…ÿÿÿÿÿ
+i	java:S116"ORename this field "rb_0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨™¿øÿÿÿÿ
+c	java:S116"ORename this field "rb_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È‡¥Q
+i	java:S116"ORename this field "rb_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âôı˜ûÿÿÿÿ
+p	java:S116 "VRename this field "button_next" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¬Ì¶ûÿÿÿÿ
+s	java:S116&"YRename this field "FRAGENZAHL_MAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¤µúüÿÿÿÿ
+<
+java:S1170&"!Make this final field static too.(Õ¤µúüÿÿÿÿ
+n
+java:S1450"SRemove the "rb_0" field and declare it as a local variable in the relevant methods.(¨™¿øÿÿÿÿ
+h
+java:S1450"SRemove the "rb_1" field and declare it as a local variable in the relevant methods.(È‡¥Q
+n
+java:S1450"SRemove the "rb_2" field and declare it as a local variable in the relevant methods.(âôı˜ûÿÿÿÿ
+K
+java:S1874„"/Remove this use of "execute"; it is deprecated.(ü¬Ãîıÿÿÿÿ
+U
+java:S1874ª">Remove this use of "startActivityForResult"; it is deprecated.(óÒß

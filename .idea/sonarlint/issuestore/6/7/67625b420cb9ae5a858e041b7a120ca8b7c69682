@@ -1,0 +1,18 @@
+
+t
+java:S1192T"^Define a constant instead of duplicating this literal "********************* Finally" 3 times.(ÃÊìÛ
+{
+java:S1192K"`Define a constant instead of duplicating this literal "********************* DB-Path: " 3 times.(ïÅˆíøÿÿÿÿ
+€
+java:S1192O"eDefine a constant instead of duplicating this literal "********************* DB-Exception: " 3 times.(“ôÿ£ùÿÿÿÿ
+e
+java:S1192P"ODefine a constant instead of duplicating this literal "DB-Exception: " 3 times.(¡×óå
+f	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëï‚ç
+f	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç˜Á°
+}
+java:S1488“"aImmediately return this expression instead of assigning it to the temporary variable "resultSet".(ÂÂÏ£úÿÿÿÿ
+V	java:S125>"<This block of commented-out lines of code should be removed.(”§Á‰ýÿÿÿÿ
+V	java:S125j"<This block of commented-out lines of code should be removed.(ž¨®ûþÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(¶î¡Æúÿÿÿÿ
+R	java:S125¢"<This block of commented-out lines of code should be removed.(ÄÎ×è
+W	java:S125­"<This block of commented-out lines of code should be removed.(¶î¡Æúÿÿÿÿ
